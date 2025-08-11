@@ -25,7 +25,7 @@ Steps Performed
 
        File → Export Specified Packets
 
-10.Save file as .pcap.
+10. Save file as .pcap.
 
 Exported File
 File Name: wireshark_prac.pcap
